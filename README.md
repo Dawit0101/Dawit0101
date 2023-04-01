@@ -1,4 +1,4 @@
-![logo](https://github.com/Dawit0101/Welcome/blob/main/pro.png)
+![logo](https://github.com/Dawit0101/Dawit0101/blob/main/pro.png)
 <h1 align="center">Hi 👋, I'm Dawit Asmerawork</h1>
 <h3 align="center">A passionate frontend developer from Eritrea</h3>
 
