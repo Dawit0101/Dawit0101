@@ -1,6 +1,6 @@
 ![logo](https://github.com/Dawit0101/Dawit0101/blob/main/pro.png)
 <h1 align="center">Hi 👋, I'm Dawit Asmerawork</h1>
-<h3 align="center">A passionate frontend developer from Eritrea</h3>
+<h3 align="center">A passionate full stack developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawit0101&label=Profile%20views&color=0e75b6&style=flat" alt="dawit0101" /> </p>
 
